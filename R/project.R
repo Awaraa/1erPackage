@@ -4,5 +4,5 @@
 #'
 #' @name multiple
 #' @docType package
-#' @import ggplot2 # Erreur volontaire
+#' @import ggplot2 
 NULL
